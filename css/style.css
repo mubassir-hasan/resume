@@ -14,7 +14,7 @@ background: linear-gradient(to bottom,#054a61,#0994c3)
 .welcome-area{
 
   background-color: #000022;
-  background: url("/images/b.jpg") no-repeat center center ;
+  background: url("images/b.jpg") no-repeat center center ;
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
